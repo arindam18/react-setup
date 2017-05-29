@@ -1,7 +1,7 @@
 {
   "name": "reactsetup",
-  "version": "1.0.1",
-  "description": "react setup with no config",
+  "version": "1.0.10",
+  "description": "A Universal React Setup with Babel, React, React Router, Webpack, Express.",
   "main": "index.js",
   "scripts": {
     "watch": "webpack -d --watch",
@@ -11,10 +11,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/arindam18/reactsetup"
+    "url": "https://github.com/arindam18/reactsetup.git"
   },
-  "author": "Arindam Banerjee",
-  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arindam18/reactsetup/issues"
+  },
+  "author": "Arindam Banerjee (https://github.com/arindam18/)",
+  "license": "MIT",
+  "homepage": "https://github.com/arindam18/reactsetup",
+  "keywords": [
+    "react",
+    "universal",
+    "webpack",
+    "boostrap",
+    "express",
+    "node"
+  ],
   "devDependencies": {
     "babel-loader": "^6.2.4",
     "babel-plugin-react-html-attrs": "^2.0.0",
