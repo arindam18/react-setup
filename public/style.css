@@ -1,0 +1,10 @@
+a.active{
+    color: #000000 !important;
+    text-decoration: underline !important;
+}
+#time{
+	float: right;
+    color: red;
+    font-weight: 700;
+    font-size: 30px;
+}
