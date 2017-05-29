@@ -1,13 +1,17 @@
 {
-  "name": "firstexample",
+  "name": "reactsetup",
   "version": "1.0.0",
-  "description": "example redux",
+  "description": "react setup with no config",
   "main": "index.js",
   "scripts": {
     "watch": "webpack -d --watch",
     "build": "webpack",
     "serve": "serve ./public",
     "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arindam18/reactsetup"
   },
   "author": "Arindam Banerjee",
   "license": "ISC",
